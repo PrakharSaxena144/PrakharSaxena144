@@ -85,55 +85,6 @@ AI Engineer • Computer Vision • Generative AI • Machine Learning
 
 ---
 
-## 🔥 Featured Projects
-
-### 🤖 Intelligent BFSI Advisory System
-
-Agentic RAG system using:
-
-- LangChain
-- FAISS
-- LLMs
-- Multi-step reasoning
-
----
-
-### 📄 Chat With PDFs
-
-Multi-document AI assistant using:
-
-- Gemini
-- LangChain
-- FAISS
-- Semantic Search
-
----
-
-### 🛰 Urban Deviation Detection
-
-AI framework using:
-
-- OpenCV
-- K-Means
-- SSIM
-- U-Net
-
-For satellite imagery analysis.
-
----
-
-### 🚦 SmartFlow AI Traffic System
-
-Built during Bharat Mandapam Hackathon.
-
-Features:
-
-- Ambulance Detection
-- Dynamic Signal Control
-- Real-time CNN Inference
-
----
-
 ## 🏆 Achievements
 
 🥇 6th Rank Nationally — Ignite Hackathon 2025
