@@ -87,6 +87,8 @@ AI Engineer • Computer Vision • Generative AI • Machine Learning
 
 ## 🏆 Achievements
 
+🛠 Bharat Mandapam Hackathon — Delivered real-time traffic-flow CNN model
+ 
 🥇 6th Rank Nationally — Ignite Hackathon 2025
 
 🚀 ISRO Bharatiya Antariksh Hackathon Participant
