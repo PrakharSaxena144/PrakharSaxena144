@@ -87,7 +87,7 @@ AI Engineer • Computer Vision • Generative AI • Machine Learning
 
 ## 🏆 Achievements
 
-🛠 Bharat Mandapam Hackathon — Delivered real-time traffic-flow CNN model
+🛠 Bharat Mandapam Hackathon — Delivered real-time traffic-flow CNN model that uses YOLO based CNN and Signal Switching Algorithm
  
 🥇 6th Rank Nationally — Ignite Hackathon 2025
 
